@@ -2,7 +2,7 @@
 
 ## JavaFX microscope application for recording and analysing pictures from a digital microscope.
 
-The desktop application allows users to view camera images from an IZOXIS USB microscope, take and save photos, and analyse images. Below is an example of analysing a photo taken in the application. In the first step, the image is binarized, followed by dilation, erosion, and applying the canny filter.
+The desktop application allows users to view camera images from an IZOXIS USB microscope, take and save photos, and analyse images. Below is an example of analysing a photo taken in the application. In the first step, the image is binarized, followed by dilation, erosion, and applying the canny filter. The project was created with [Piotr Cięgotura](https://github.com/Ciegotura).
 
 ### Features
 * two windows, one for a camera view in real-time and one for image analysis
